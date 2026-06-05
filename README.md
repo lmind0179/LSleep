@@ -1,5 +1,3 @@
-## English (English Description)
-
 ### 🌙 Sleep quietly tonight
 **LSleep** is a premium sleep audio guide designed to provide a deep and uninterrupted night's rest using only **7 meticulously designed calming sleep sounds** and a **precision sleep timer** system—completely free of clunky interfaces and intrusive ads.
 
